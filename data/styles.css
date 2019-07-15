@@ -193,6 +193,10 @@
   color:#000000;
   text-align:left;
 }
+.text_area {
+  color:#000000;
+  text-align:left;
+}
 ._流程形状 {
 }
 .table_cell {
@@ -229,5 +233,8 @@
   text-align:left;
 }
 .checkbox {
+  text-align:left;
+}
+.radio_button {
   text-align:left;
 }
